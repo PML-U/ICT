@@ -1,4 +1,5 @@
 //EXAMPLE EDIT ON FIRST LINE
+name;
 #include <stdio.h>
 struct inventory{
 	char tool[100]; //Tool Name
