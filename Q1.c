@@ -1,5 +1,5 @@
 //EXAMPLE EDIT ON FIRST LINE
-name;
+ELEPHANT;
 #include <stdio.h>
 struct inventory{
 	char tool[100]; //Tool Name
