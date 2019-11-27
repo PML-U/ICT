@@ -1,5 +1,5 @@
+//EXAMPLE EDIT ON FIRST LINE
 #include <stdio.h>
-#include <string.h>
 struct inventory{
 	char tool[100]; //Tool Name
 	int quantity; 
